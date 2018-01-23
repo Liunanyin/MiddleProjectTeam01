@@ -64,7 +64,7 @@ li a:hover {
 .leftnav {
 	background-color: #0b0506;
 	color: #f95a0c;
-	position: relative;
+	position: fixed;
 	padding: 10px;
 	margin: 0px;
 	width: 150px;
