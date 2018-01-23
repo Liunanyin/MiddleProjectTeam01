@@ -1,0 +1,73 @@
+Midterm Project
+
+● Duration:  1 week (Due. Jan 26th)
+● Grade:  10%
+● Team:  group of 4
+
+1. Create 5 HTML pages interlinked
+2. Use only external CSS
+3. Create a navigation menu (horizontal or vertical)
+4. Add at least 4 images
+5. At least one table (don't use for layout)
+6. Create an HTML form (no processing script is required)
+7. Use the CSS techniques that you already learn
+8. Use your creativity to make an appealing website
+9. This time use some real content, do not use "lorem ipsum".
+10.Write about something that might interest you (sports, music, movies, places,
+etc.).
+11.Validate your page at the end (HTML and CSS W3C Validator)
+12.Add a comment with your name and date at the top of every file you created. 13.Push in your GitHub account and send the link by email.
+
+Technical requirements:
+
+All pages must use the same external stylesheet. No inline nor embedded style is permitted.
+Use CSS positioning techniques to organize the layout of each page.
+All textual content must be styled with external CSS, and all links pseudoclassed. All text must be inside an HTML tag.
+Use HTML tags semantically, e.g., use headings to break up and summarize content, use list elements for displaying a list of links, etc.
+ 
+Ensure appropriate contrast ratio for all foreground content. Choose appealing colors, alignment, and use of white space. Spell check all textual content you have authored, test all pages and links thoroughly in at least two different web browsers.
+Navigation: Marks for general ease of use and visual effectiveness: Website navigation should not change position or orientation throughout site. Links to pages within the website must not open in a new tab/browser.
+Coding and Markup: Use only well formed and valid HTML, CSS and scripting. Use good indenting, and appropriate filenames. All HTML and CSS files must include a comment with your name near the top.
+Content: Both the design and content of the site must be entirely authored by the student. If the final project involves a site for a real world client, exceptions may be made for using existing logos, marketing copy, etc.
+Collaboration:  Make sure each team member has equal amount of work. Marks for appropriate commit messages and workflow with git / github.
+
+
+
+
+
+------------------------------------
+
+
+
+Midterm Project
+
+● Duration:  1 week (Due. Jan 26th)
+● Grade:  10%
+● Team:  group of 4
+
+1. Create 5 HTML pages interlinked
+2. Use only external CSS
+3. Create a navigation menu (horizontal or vertical)
+4. Add at least 4 images
+5. At least one table (don't use for layout)
+6. Create an HTML form (no processing script is required)
+7. Use the CSS techniques that you already learn
+8. Use your creativity to make an appealing website
+9. This time use some real content, do not use "lorem ipsum".
+10.Write about something that might interest you (sports, music, movies, places,
+etc.).
+11.Validate your page at the end (HTML and CSS W3C Validator)
+12.Add a comment with your name and date at the top of every file you created. 13.Push in your GitHub account and send the link by email.
+
+Technical requirements:
+
+All pages must use the same external stylesheet. No inline nor embedded style is permitted.
+Use CSS positioning techniques to organize the layout of each page.
+All textual content must be styled with external CSS, and all links pseudoclassed. All text must be inside an HTML tag.
+Use HTML tags semantically, e.g., use headings to break up and summarize content, use list elements for displaying a list of links, etc.
+ 
+Ensure appropriate contrast ratio for all foreground content. Choose appealing colors, alignment, and use of white space. Spell check all textual content you have authored, test all pages and links thoroughly in at least two different web browsers.
+Navigation: Marks for general ease of use and visual effectiveness: Website navigation should not change position or orientation throughout site. Links to pages within the website must not open in a new tab/browser.
+Coding and Markup: Use only well formed and valid HTML, CSS and scripting. Use good indenting, and appropriate filenames. All HTML and CSS files must include a comment with your name near the top.
+Content: Both the design and content of the site must be entirely authored by the student. If the final project involves a site for a real world client, exceptions may be made for using existing logos, marketing copy, etc.
+Collaboration:  Make sure each team member has equal amount of work. Marks for appropriate commit messages and workflow with git / github.
